@@ -1,2 +1,3 @@
 # hello-git-world
-Just testing things out
+
+First commit for testing out github, woohoo!
